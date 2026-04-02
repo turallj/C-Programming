@@ -4,3 +4,4 @@ Task 2 - Daxil edilen ucreqemli bir ededin reqemlerinin cemini hesablayan proqra
 Task 3 - Istifadeciden ferdi melumatlari (ad, soyad, yas, tehsil) alib onlari seliqeli sekilde ekrana qaytaran bir anket proqrami
 Task 4 - Her hansisa ededin kubunu hesablayan proqram
 Task 5 - Ededin reqemleri cemini hesablayir (version 2)
+Task 6 - Reqemlerin kvadratlarinin cemini hesablayan proqram
