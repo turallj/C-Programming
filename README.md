@@ -12,3 +12,4 @@ Task 10 - Ededin kvadratini cap eden proqram
 Task 11 - Kalkulyator cap eden proqram
 Task 12 - 1den 10a qeder cut ededleri cap eden proqram
 Task 13 - Daxil edilmis ixtiyari ededin reqemlerinin sayini cap eden proqram
+Task 14 - Ebobu cap eden proqram
