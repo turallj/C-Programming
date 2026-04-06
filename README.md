@@ -9,3 +9,4 @@ Task 7 - Istenilen ededin reqemlerin kvadratlarinin cemini hesablayan proqram
 Task 8 - Yasa gore kateqoriaya ayiran proqram
 Task 9 - Ucbucagin novunu teyin edir
 Task 10 - ededin kvadratini cap eden proqram
+Task 11 - kalkulyator cap eden proqram
