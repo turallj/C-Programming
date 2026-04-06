@@ -10,3 +10,4 @@ Task 8 - Yasa gore kateqoriaya ayiran proqram
 Task 9 - Ucbucagin novunu teyin edir
 Task 10 - ededin kvadratini cap eden proqram
 Task 11 - kalkulyator cap eden proqram
+Task 12 - 1den 10a qeder cut ededleri cap eden proqram
