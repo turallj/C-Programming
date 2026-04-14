@@ -15,3 +15,4 @@ Task 13 - Daxil edilmis ixtiyari ededin reqemlerinin sayini cap eden proqram
 Task 14 - Ebobu cap eden proqram
 Task 15 - Daxil edilen ixtiyari ededin reqemleri cemini cap eden proqram
 Task 16 - Parametrsiz deyer qaytarmayan funksiya cap eden proqram
+Task 17 - Parametrli deyer qaytarmayan funksiya (cem)
