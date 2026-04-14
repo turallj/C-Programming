@@ -20,3 +20,4 @@ Task 18 - Sifirlanmayan random reqem cap eden proqram %x edede kimi
 Task 19 - Sifirlanan (her defe yenilenen) random reqem cap eden proqram %x edede kimi
 Task 20 - Deyer qaytaran parametrli funksiya cap eden proqram
 Task 21 - Vurma cedveli, multi eded capi
+Task 22 - Vurma cedveli version 2
